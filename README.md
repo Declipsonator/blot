@@ -12,8 +12,8 @@ This project not only showcases the fundamentals of ray tracing but also invites
 
 Here are some snapshots that capture the essence of *Echoes of Light*:
 
-|  <img src="/art/echoesOfLight-jacksonHickey/snapshots/0.png" width="300px" />   | <img src="/art/echoesOfLight-jacksonHickey/snapshots/1.png" width="300px" /> |
+|  <img src="https://github.com/Declipsonator/blot/raw/main/art/echoesOfLight-jacksonHickey/snapshots/0.png" width="300px" />   | <img src="https://github.com/Declipsonator/blot/raw/main/art/echoesOfLight-jacksonHickey/snapshots/1.png" width="300px" /> |
 | -------- | ------- |
-| <img src="/art/echoesOfLight-jacksonHickey/snapshots/2.png" width="300px" />  | <img src="/art/echoesOfLight-jacksonHickey/snapshots/3.png" width="300px" />   |
+| <img src="https://github.com/Declipsonator/blot/raw/main/art/echoesOfLight-jacksonHickey/snapshots/2.png" width="300px" />  | <img src="https://github.com/Declipsonator/blot/raw/main/art/echoesOfLight-jacksonHickey/snapshots/3.png" width="300px" />   |
 
 Each image captures a unique moment in the simulation, revealing the dynamic and evolving nature of light as it interacts with its environment.
